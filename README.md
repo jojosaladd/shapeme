@@ -6,7 +6,7 @@ This project was adapted from [3D Human Body Reshaping with Anthropometric Model
 
 ## Demo
 ![example](recordings/example.gif)
-[⬇️ Download EXE](https://drive.google.com/file/d/1S1Zg4xw1HL6riW6MwLmJ8eP1wXYBKVz8/view?usp=sharing)
+[Download ShapeMe (Windows .exe)](https://drive.google.com/file/d/1S1Zg4xw1HL6riW6MwLmJ8eP1wXYBKVz8/view?usp=sharing)
 
 
 
