@@ -5,10 +5,13 @@ ShapeMe is a desktop application (distributed as an .exe) that lets you generate
 This project was adapted from [3D Human Body Reshaping with Anthropometric Modeling](https://github.com/zengyh1900/3D-Human-Body-Shape?tab=readme-ov-file) by Yanhong Zeng, Jianlong Fu, Hongyang Chao. The approach for estimating body measurements was based on their work, and portions of their open-sourced codebase were used. Training data come from [SPRING](https://graphics.soe.ucsc.edu/data/BodyModels/index.html), with 1,500 female meshes used for training.
 
 ## Demo
-![example](recordings/example.gif)
+![example](example.gif)
 
 ## Releases & Download
 [Download ShapeMe (Windows .exe)](https://drive.google.com/file/d/1S1Zg4xw1HL6riW6MwLmJ8eP1wXYBKVz8/view?usp=sharing)
 
+## Code Availability
+
+The full codebase is currently private, as this project is being used in ongoing academic research. However, this repository provides the Windows .exe application to support users who need to generate and export .obj avatars. If you have questions about the implementation, please feel free to open an issue or contact me directly.
 
 
