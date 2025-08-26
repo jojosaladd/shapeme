@@ -10,6 +10,8 @@ This project was adapted from [3D Human Body Reshaping with Anthropometric Model
 ## Releases & Download
 [Download ShapeMe (Windows .exe)](https://drive.google.com/file/d/1S1Zg4xw1HL6riW6MwLmJ8eP1wXYBKVz8/view?usp=sharing)
 
+Download the ZIP file from the Google Drive link above. Then, go to the dist folder and double-click shapeme.exe to run the application. Note: the dist folder and the release_model folder must be in the same directory.
+
 ## Code Availability
 
 The full codebase is currently private, as this project is being used in ongoing academic research. However, this repository provides the Windows .exe application to support users who need to generate and export .obj avatars. If you have questions about the implementation, please feel free to open an issue or contact me directly.
